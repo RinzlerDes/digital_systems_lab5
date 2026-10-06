@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "A_State",
+					"strict" : false
+				},
+				{
+					"name" : "B_State",
+					"strict" : false
+				},
+				{
+					"name" : "out_and",
+					"strict" : false
+				},
+				{
+					"name" : "out_nand",
+					"strict" : false
+				},
+				{
+					"name" : "out_or",
+					"strict" : false
+				},
+				{
+					"name" : "out_nor",
+					"strict" : false
+				},
+				{
+					"name" : "out_xor",
+					"strict" : false
+				},
+				{
+					"name" : "out_xnor",
+					"strict" : false
+				},
+				{
+					"name" : "A",
+					"strict" : false
+				},
+				{
+					"name" : "B",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+Quartus Prime Archive log --	C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/__template.auto.qarlog
+
+Archive:	C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/__template.auto.qar
+Date:		Tue Oct  6 16:24:46 2026
+Quartus Prime		21.1.1 Build 850 06/23/2022 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/db/template.cbx.xml
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/db/template.qpf
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/output_files/template.flow.rpt
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/output_files/template.map.rpt
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/output_files/template.map.summary
+c:/intelfpga_lite/21.1/quartus/bin64/assignment_defaults.qdf
+template.qsf
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

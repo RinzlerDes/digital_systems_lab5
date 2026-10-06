@@ -1,0 +1,25 @@
+|basic_gates
+A_State <= A.DB_MAX_OUTPUT_PORT_TYPE
+A => A_State.DATAIN
+A => inst.IN1
+A => inst2.IN0
+A => inst3.IN0
+A => inst4.IN0
+A => inst5.IN1
+A => inst6.IN1
+B_State <= B.DB_MAX_OUTPUT_PORT_TYPE
+B => B_State.DATAIN
+B => inst.IN0
+B => inst2.IN1
+B => inst3.IN1
+B => inst4.IN1
+B => inst5.IN0
+B => inst6.IN0
+out_and <= inst.DB_MAX_OUTPUT_PORT_TYPE
+out_nand <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+out_or <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+out_nor <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+out_xor <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+out_xnor <= inst6.DB_MAX_OUTPUT_PORT_TYPE
+
+

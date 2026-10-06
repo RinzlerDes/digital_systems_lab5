@@ -1,0 +1,13 @@
+|template
+Sum <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+A => inst5.IN0
+A => inst6.IN0
+A => inst7.IN1
+B => inst5.IN1
+B => inst6.IN1
+B => inst7.IN0
+Cin => inst4.IN1
+Cin => inst8.IN1
+Cout <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,23 @@
+Quartus Prime Archive log --	C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/template_tmp_archive.qarlog
+
+Archive:	C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/template_tmp_archive.qar
+Date:		Tue Oct  6 16:24:46 2026
+Quartus Prime		21.1.1 Build 850 06/23/2022 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/output_files/template.flow.rpt
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/output_files/template.map.rpt
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/output_files/template.map.summary
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/template.qpf
+C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/template.qsf
+c:/intelfpga_lite/21.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Oct  6 16:24:48 2026
+Source archive file:	C:/Users/rinzler/mcc/enr_153_digital_systems/de10_lite_template/template_tmp_archive.qar
+Archive was extracted into	C:/Users/rinzler/mcc/enr_153_digital_systems/labs/lab5/proj_gates2/
+		 - successfully.
